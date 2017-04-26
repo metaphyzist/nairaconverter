@@ -1,0 +1,45 @@
+body {
+	color: grey;
+}
+
+	.converter {
+	margin-top: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 500px;
+	height: 400px;
+	background-color: floraWhite;
+}
+
+h2 {
+	font-family: garamond, san-serif;
+	color: gold;
+	background-color: black;
+}
+
+ p {
+	font-family: Hevelta, arial;
+	color: black;
+}
+
+.inputArea {
+	display: inline-block;
+}
+
+button{
+	active:;
+	box-shadow: 
+}
+
+#output{
+	color: black;
+	background-color: #fff;
+}
+
+p span {
+	color: pink;
+}
+
+a:hover {
+	color: blue;
+}
