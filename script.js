@@ -1,4 +1,4 @@
-// programme to change the text on top of input and the convert button text
+// programe to change the text on top of input and the convert button text
 var varForConvertionButton = document.getElementById("convertButton").innerHTML;
 var docCapture = document.getElementById("textBeforeInput").style.background-color;
 
